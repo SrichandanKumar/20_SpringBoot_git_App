@@ -7,4 +7,8 @@ public class Car {
 		int i=10;
 	}
 	
+public void stop(){
+	System.out.println("Engine stop");
+}
+
 }
