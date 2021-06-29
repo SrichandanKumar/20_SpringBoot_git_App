@@ -8,6 +8,11 @@ public class Car {
 		System.out.println("Engine started...")
 		int i=10;
 	}
+//HIS-188
+public void break(){
+System.out.println("Use  Break to Reduce Race..")
+}
+
 
 
 	
