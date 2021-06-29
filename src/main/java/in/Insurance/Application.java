@@ -7,6 +7,7 @@ import org.springframework.context.ConfigurableApplicationContext;
 @SpringBootApplication
 public class Application {
 
+Map<String,Object> chache=new HashMap<String,Object>();
 public String restUrl="http//web/mic/resource";
 
 	public static void main(String[] args) {
@@ -19,5 +20,9 @@ public String restUrl="http//web/mic/resource";
 	
 	}
 	
+public void chache(){
+
+//logic
+}
 
 }
